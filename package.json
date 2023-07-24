@@ -1,0 +1,9 @@
+{
+  "name": "dashlane_to_pass",
+  "version": "1.0.0",
+  "description": "A tool to import dashlane passwords in pass",
+  "main": "index.js",
+  "author": "Julien AZEAU",
+  "license": "MIT",
+  "private": false
+}
