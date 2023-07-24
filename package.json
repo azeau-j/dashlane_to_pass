@@ -2,8 +2,15 @@
   "name": "dashlane_to_pass",
   "version": "1.0.0",
   "description": "A tool to import dashlane passwords in pass",
-  "main": "index.js",
+  "type": "module",
+  "main": "bin/index.js",
   "author": "Julien AZEAU",
+  "bin": {
+    "dtp": "bin/index.js"
+  },
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
 }
