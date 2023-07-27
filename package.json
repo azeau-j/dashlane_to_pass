@@ -1,5 +1,6 @@
 {
     "name": "dashlane_to_pass",
+    "preferGlobal": true,
     "version": "1.0.0",
     "description": "A tool to import dashlane passwords in pass",
     "type": "module",
@@ -15,5 +16,17 @@
         "chalk": "^5.3.0",
         "commander": "^11.0.0",
         "csv": "^6.3.1"
+    },
+    "keywords": [
+        "cli",
+        "pass",
+        "passwords"
+    ],
+    "bugs": {
+        "url": "https://github.com/azeau-j/dashlane_to_pass/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/azeau-j/dashlane_to_pass.git"
     }
 }
