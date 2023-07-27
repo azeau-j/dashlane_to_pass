@@ -1,7 +1,7 @@
 {
     "name": "dashlane_to_pass",
     "preferGlobal": true,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A tool to import dashlane passwords in pass",
     "type": "module",
     "main": "bin/index.js",
